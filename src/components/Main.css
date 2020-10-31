@@ -71,3 +71,8 @@
 .tarefas li:hover .delete {
     color: #000;
 }
+
+.tarefas li span {
+    display: flex;
+    align-items: center;
+}
